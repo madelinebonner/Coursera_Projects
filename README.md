@@ -92,10 +92,9 @@ Refer to Hands-on Lab: Getting Started with GitHub to upload the downloaded note
 #### Congratulations on completing this project. In a subsequent item in the course you will submit a link to your notebook on GitHub and evaluate your peers.
 
 ### Author
-Lakshmi Holla
-Niveditha Pandith
+Lakshmi Holla, Niveditha Pandith
 
 ### Other contributor(s)
-Rav Ahuja
-Malika Singla
-© IBM Corporation 2022. All rights reserved.
+Rav Ahuja, Malika Singla
+
+###© IBM Corporation 2022. All rights reserved.
