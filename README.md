@@ -97,4 +97,4 @@ Lakshmi Holla, Niveditha Pandith
 ### Other contributor(s)
 Rav Ahuja, Malika Singla
 
-###© IBM Corporation 2022. All rights reserved.
+© IBM Corporation 2022. All rights reserved.
